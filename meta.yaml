@@ -3,9 +3,8 @@ package:
   version: 2.10.1
 
 source:
-  git_rev: HEAD
-  git_url: .
-  # git_url: https://github.com/eisber/cpprestsdk
+  git_rev: 2.10.1
+  git_url: https://github.com/eisber/cpprestsdk
 
 requirements:
   build:
